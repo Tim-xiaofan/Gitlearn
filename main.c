@@ -6,6 +6,7 @@ int main()
     printf("Hello world!\n");
     printf("Mod 1\n");
     printf("Mod 2\n");
-    printf("Git has a mutable index called stage.");
+    printf("Git has a mutable index called stage.\n");
+    printf("Git tracks changes.\n")
     return 0;
 }
